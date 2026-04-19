@@ -21,7 +21,7 @@ class Solution:
                 if row[i] or col[j]:
                     matrix[i][j] =0
         
-        ```
+```
 
 ```java
 class Solution {
